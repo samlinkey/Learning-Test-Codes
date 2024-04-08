@@ -1,0 +1,47 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "DeleteFileDemo",
+            "request": "launch",
+            "mainClass": "DeleteFileDemo",
+            "projectName": "Code_3df108c5"
+        },
+        {
+            "type": "java",
+            "name": "CreateDir",
+            "request": "launch",
+            "mainClass": "CreateDir",
+            "projectName": "Code_3df108c5"
+        },
+        {
+            "type": "java",
+            "name": "RunoobTest",
+            "request": "launch",
+            "mainClass": "RunoobTest",
+            "projectName": "Code_3df108c5"
+        },
+        {
+            "name": "C/C++",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${fileDirname}/${fileBasenameNoExtension}.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}",
+            "environment": [],
+            "externalConsole": false,
+            "MIMode": "gdb",
+            "miDebuggerPath": "gdb.exe",
+            "preLaunchTask": "compile",
+            "setupCommands": [
+                {
+                    "description": "Enable pretty-printing for gdb",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                }
+            ]
+        }
+    ]
+}

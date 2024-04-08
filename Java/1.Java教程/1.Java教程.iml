@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/1.HelloWorld" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1.对象和类" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10.正則表達式" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/11.方法" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/12.Stream&amp;File&amp;IO" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/13.Scanner類" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/14.異常處理" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2.变量类型" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3.修饰符" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3.运算符" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4.循环结构" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/7.Character&amp;StringBuffer类" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/8.數組" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/9.時間日期" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
